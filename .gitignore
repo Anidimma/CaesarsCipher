@@ -1,0 +1,3 @@
+#Ignore these folders
+.\src\main\java\com\mycompany\caesarscipher\DifferentImplementations.java
+.\src\main\java\com\mycompany\caesarscipher\LambdaConsumer.java
